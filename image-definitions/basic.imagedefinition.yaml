@@ -10,4 +10,4 @@ scheduledRecurrence: 24
 tasks:
   - name: winget
     parameters:
-      downloadUrl: 'https://raw.githubusercontent.com/contoso-co/common-eng-sys/main/dsc-configurations/common-config.dsc.yaml'
+      downloadUrl: 'https://raw.githubusercontent.com/Versent/devcenter-common-eng-catalog/refs/heads/main/dsc-configurations/common-config.dsc.yaml'
